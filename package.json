@@ -6,6 +6,7 @@
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "react-scripts": "1.1.5",
+    "recompose": "^0.30.0",
     "rxjs": "^6.3.2",
     "undux": "^5.0.0-alpha.15"
   },
